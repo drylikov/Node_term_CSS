@@ -1,5 +1,4 @@
-
-# term-css
+# Term CSS .
 
   Terminal CSS styling using node-css.
 
@@ -82,40 +81,3 @@ age {
 
  To output a plain string but use the same format, simply omit the css
  string from the `.compile(fmt, style)` call.
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
