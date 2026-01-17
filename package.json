@@ -1,0 +1,12 @@
+
+{
+  "name": "term-css",
+  "version": "1.0.0",
+  "description": "style terminal output with CSS!",
+  "keywords": ["css", "stylesheet", "term", "console", "ansi", "escape"],
+  "author": "Denis Rylikov <denis.rylikov@protonmail.com>",
+  "dependencies": {
+    "css": "1.0.1"
+  },
+  "main": "index"
+}

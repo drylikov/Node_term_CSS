@@ -1,0 +1,16 @@
+
+name {
+  color: cyan;
+  font-weight: bold;
+}
+
+species {
+  color: white;
+  font-weight: bold;
+  background: black;
+}
+
+age {
+  color: red;
+  text-decoration: underline;
+}
